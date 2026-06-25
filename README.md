@@ -188,5 +188,5 @@ pytest
 - Event logs are kept out of Git by default, except for `data/sample_events.jsonl`.
 
 ## Developed By
-Mohseen Attar.
+Sakshi Chougale.
 
